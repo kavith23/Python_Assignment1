@@ -1,6 +1,7 @@
 ## Write a program to Add, Subtract, Multiply, and Divide 2 numbers
 def sum(c,d):
 	e = c + d
+	print e
 	return e
 
 def diff(c,d):
